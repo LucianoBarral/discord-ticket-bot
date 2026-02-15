@@ -63,7 +63,7 @@
 ### 1️⃣ Clone ou baixe o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/discord-ticket-bot.git
+git clone https://github.com/LucianoBarral/discord-ticket-bot.git
 cd discord-ticket-bot
 ```
 
